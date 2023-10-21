@@ -1,0 +1,16 @@
+569MMMRR_%;Ari;Carlton|Melbourne|Victoria;28-10-1998;Ari is an alternative rock artist based in Melbourne she loves rock music.;singer,writer;pop,blues;2022, Best Song Written For Visual Media
+569ZZMRR_%;Deepthi;Syndey|NSW|Australia;30-04-2008;Deepthi is an Indie rock artist from India, she has won many awards.;singer,dancer;indie,alt rock;2023, MTV Best Indie Song
+589ZZMRR_%;Johnny;Melbourne|VIC|Australia;30-04-1978;John is a very good guitarist and has a large fan following.;singer,dancer;indie,alt rock;2023, MTV Best Indie Song
+699MMMRR_%;Neethi;Thivim|Goa|India;01-01-1989;Neethi is an upcoming rap artist based in India. She is a rising star;singer,rapper;rap,soul;2023, MTV Best Rap Song Ever
+699MMMPP_%;Arpit;Bengaluru|Karnataka|India;24-03-1998;Arpit is an established pop artist based in India. He is amazing at what he does;singer,writer;rap,soul;2023, MTV Best Rap Song Ever
+999MMMPP_%;Nidhi;Quebec|Montreal|Canada;27-11-1998;Nidhi is an established rock artist based in Canada. She is amazing at what she does;singer,writer;rap,soul;2023, MTV Best Rap Song Ever
+999ZZZPP_%;April;Fitzroy|Melbourne|Australia;28-12-1990;April was born and raised in Fitzroy, she is now an emerging pop artist who has been nominated for 4 grammy awards;singer,writer;pop,soul;2006, MTV Best Soul Song
+999QQQPP_%;Rash;Bristol|England|UK;11-11-1978;Rash is an established soul artist based in UK. She is amazing at what she does;singer,dancer;rap,soul;2023, MTV Best Rap Song Ever,1998, Grammy Best Soul Song
+569MMMRR_%;Ari;Carlton|Melbourne|Victoria;28-10-1998;Ari is an alternative rock artist based in Melbourne she loves rock music.;singer,writer;pop,blues;2022, Best Song Written For Visual Media
+569ZZMRR_%;Deepthi;Syndey|NSW|Australia;30-04-2008;Deepthi is an Indie rock artist from India, she has won many awards.;singer,dancer;indie,alt rock;2023, MTV Best Indie Song
+589ZZMRR_%;Johnny;Melbourne|VIC|Australia;30-04-1978;John is a very good guitarist and has a large fan following.;singer,dancer;indie,alt rock;2023, MTV Best Indie Song
+699MMMRR_%;Neethi;Thivim|Goa|India;01-01-1989;Neethi is an upcoming rap artist based in India. She is a rising star;singer,rapper;rap,soul;2023, MTV Best Rap Song Ever
+699MMMPP_%;Arpit;Bengaluru|Karnataka|India;24-03-1998;Arpit is an established pop artist based in India. He is amazing at what he does;singer,writer;rap,soul;2023, MTV Best Rap Song Ever
+999MMMPP_%;Nidhi;Quebec|Montreal|Canada;27-11-1998;Nidhi is an established rock artist based in Canada. She is amazing at what she does;singer,writer;rap,soul;2023, MTV Best Rap Song Ever
+999ZZZPP_%;April;Fitzroy|Melbourne|Australia;28-12-1990;April was born and raised in Fitzroy, she is now an emerging pop artist who has been nominated for 4 grammy awards;singer,writer;pop,soul;2006, MTV Best Soul Song
+999QQQPP_%;Rash;Bristol|England|UK;11-11-1978;Rash is an established soul artist based in UK. She is amazing at what she does;singer,dancer;rap,soul;2023, MTV Best Rap Song Ever,1998, Grammy Best Soul Song
