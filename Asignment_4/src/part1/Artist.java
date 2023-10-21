@@ -139,10 +139,10 @@ public class Artist {
 		    BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 		    
 		    // creating string to insert into the file
-		    String artistInfo = ID + ";" + Name + ";" + Address + ";" + Birthdate + ";" + Bio + ";" +
+		    String data = ID + ";" + Name + ";" + Address + ";" + Birthdate + ";" + Bio + ";" +
 		            String.join(",", Occupations) + ";" + String.join(",", Genres) + ";" + String.join(",", Awards);
 
-		    bufferedWriter.write(artistInfo);
+		    bufferedWriter.write(data);
 		    bufferedWriter.newLine();
 		    bufferedWriter.close();
 		    
@@ -194,9 +194,9 @@ public class Artist {
             while ((currentLine = br.readLine()) != null) {
                 String artistID = currentLine.split(";")[0];
                 if (artistID.equals(newID)) { // checking if the artist ID exists in the file
-                    String updatedArtistInfo = ID + ";" + newName + ";" + newAddress + ";" + newBirthdate + ";" + newBio + ";" +
+                    String updatedData = ID + ";" + newName + ";" + newAddress + ";" + newBirthdate + ";" + newBio + ";" +
                             String.join(",", newOccupations) + ";" + String.join(",", newGenres) + ";" + String.join(",", newAwards);
-                    bw.write(updatedArtistInfo); // writing to temp file
+                    bw.write(updatedData); // writing to temp file
                 }
                 else {
                 	bw.write(currentLine);
